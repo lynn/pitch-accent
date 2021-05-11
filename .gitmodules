@@ -1,0 +1,6 @@
+[submodule "kanji-data"]
+	path = kanji-data
+	url = https://github.com/davidluzgouveia/kanji-data
+[submodule "nhk-pronunciation"]
+	path = nhk-pronunciation
+	url = https://github.com/javdejong/nhk-pronunciation
